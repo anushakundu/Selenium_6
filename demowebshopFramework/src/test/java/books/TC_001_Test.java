@@ -7,9 +7,9 @@ import org.testng.annotations.Test;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.teicenties.genericutility.BaseClass;
+import com.teicenties.genericutility.ListenersUtility;
 import com.tricenties.objectrepository.HomePage;
 
- com.tricenties.objectrepository.HomePage;
 @Listeners(ListenersUtility.class)
 public class TC_001_Test extends BaseClass {
 	 @Test
