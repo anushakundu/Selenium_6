@@ -13,7 +13,7 @@ import com.tricenties.objectrepository.HomePage;
 @Listeners(ListenersUtility.class)
 public class TC_001_Test extends BaseClass {
 	 @Test
-	 public void clickOnBooks()
+	 public void clickOnBooksss()
 	 {
 		 ExtentTest test = exReport.createTest("clickOnBooks");
 		 hp = new HomePage(driver);
